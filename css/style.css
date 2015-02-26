@@ -1,0 +1,142 @@
+
+.clever_sms_page label,#send_sms_form label{
+
+    display: block;
+    font-weight: bold;
+}
+
+.clever_sms_configure_option label {
+
+    width: 300px;
+    float: left;
+
+}
+
+
+.clever_sms_page input[type="password"],.clever_sms_page input[type="text"],.clever_sms_page textarea{
+    width: 400px;
+
+}
+.clever_sms_page .element{
+    margin-bottom: 10px;
+
+}
+.clever_sms_errors,.clever_sms_success{
+
+
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    padding: 1px 12px;
+    max-width: 696px;
+    margin-bottom: 30px;
+
+}
+
+.clever_sms_errors{
+    border-left: 4px solid #dd3d36;
+    background: none repeat scroll 0 0 #ffaaaa;
+}
+.clever_sms_success{
+    border-left: 4px solid #006505;
+    background: none repeat scroll 0 0 #aaffaa;
+}
+
+.clever_sms_block{
+    background-color: #ffffff;
+    max-width: 700px;
+    padding-left: 20px;
+}
+.clever_sms_block span,.clever_sms_errors span{
+    text-decoration: underline;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#clever_sms_accountInfo td{
+    min-width: 200px;
+}
+#clever_sms_msg{
+
+    text-align: center;
+    margin-left: 1%;
+}
+.left{
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.clever_sms_big {
+    color: #9498a1;
+    font-size: 1.875em;
+}
+.clever_sms_table {
+    border: medium solid #9FA1A0;
+    border-collapse: collapse;
+
+}
+.clever_sms_table_medium{
+    width: 50%;
+}
+
+.clever_sms_table_max{
+    width: 65%;
+}
+/* Couleur de fond de l'en-tête du tableau, couleur du texte et hauteur de la cellules. */
+.clever_sms_table thead td {
+    border: thin solid #9FA1A0;
+    padding: 5px;
+    text-align: center;
+    background-color:#999999;
+
+}
+
+/* nth-child(even) cible les lignes paires. */
+.clever_sms_table tbody tr:nth-child(even) {
+    background-color:#CCCCCC;
+}
+
+/* nth-child(odd) cible les lignes impaires. */
+.clever_sms_table tbody tr:nth-child(odd) {
+    background-color: #DFDFDF;
+}
+
+/* Couleur des bordures, hauteur des cellules et retrait du texte du bord gauche de la cellule. */
+.clever_sms_table tbody td {
+    text-align: center;
+    border: 1px solid #333333;
+    height: 30px;
+
+}
+
+#clever_sms_cnil{
+    color: #ff0000 ;
+    text-align: justify;
+    width: 400px
+}
+
+/* Effet de survol au passage du curseur. */
+.clever_sms_table tbody tr:hover {
+    background-color:#666666;
+    color: #FFFFFF;
+}
+
+.clever_sms_color_orange{
+    background-color: orange;
+}
+.clever_sms_color_green{
+    background-color: #008000;
+}
+.clever_sms_color_red{
+    background-color: #ff0000;
+}
+.clever_sms_color_blue{
+    background-color: #00A8EF;
+}
+
+@media screen and (max-width: 850px) {
+    .clever_sms_table {
+        overflow-x: auto;
+        display: block;
+   }
+
+}
