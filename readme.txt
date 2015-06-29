@@ -4,7 +4,7 @@ Donate link: http://www.clever.fr/
 Tags: sms, envoi de sms, sms long,  alerte sms, notification sms, envoi de sms en masse, campagne sms,  sms personnalisé, SMS URL, SMS wordpress
 Requires at least: 3.4.1
 Tested up to: 4.0.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2
 
 Le plugin Envoi-sms-cleversmsWP vous permet d'envoyer des SMS depuis l'interface administrateur en personnalisant l'émetteur.
