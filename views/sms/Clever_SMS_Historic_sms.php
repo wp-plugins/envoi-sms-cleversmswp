@@ -87,9 +87,9 @@ class Clever_SMS_Historic_sms
                     '<td>' . $object->units . '</td>' .
                     '<td style="min-width:150px">' . $object->send_date . '</td>' .
                     '<td style="min-width:150px">
-                        <a href="https://cleversmslight.clever.fr/uploadsDirectory/'.$objects->directoryName.'/ack/'.$object->reference.'.csv">Envois</a>';
+                        <a href="https://cleversmslight.clever-is.fr/uploadsDirectory/'.$objects->directoryName.'/ack/'.$object->reference.'.csv">Envois</a>';
                         if($object->mo!=0){
-                            echo  '&nbsp;<a href="https://cleversmslight.clever.fr/uploadsDirectory/'.$objects->directoryName.'/ack/Mo'.$object->reference.'.csv">Réponses</a>';
+                            echo  '&nbsp;<a href="https://cleversmslight.clever-is.fr/uploadsDirectory/'.$objects->directoryName.'/ack/Mo'.$object->reference.'.csv">Réponses</a>';
                         }
                    echo' </td>'.
                     '<td style="min-width:200px">' . $object->text . '</td></tr>';
@@ -106,7 +106,7 @@ class Clever_SMS_Historic_sms
         <p><span class="clever_sms_color_red">&nbsp;6&nbsp;</span>: Message non délivré</p>
         <p><span class="clever_sms_color_red">&nbsp;8&nbsp;</span>:  Doublon dans l'envoi</p>
         Vous pouvez consulter vos historiques de <b>plus de 7 jours</b> en accédant directement à notre site <a
-        href="https://cleversmslight.clever.fr">https://cleversmslight.clever.fr</a>.
+        href="https://cleversmslight.clever-is.fr">https://cleversmslight.clever-is.fr</a>.
     <?php
 
     }

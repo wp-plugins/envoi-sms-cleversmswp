@@ -4,7 +4,7 @@ Donate link: http://www.clever.fr/
 Tags: sms, envoi de sms, sms long,  alerte sms, notification sms, envoi de sms en masse, campagne sms,  sms personnalisé, SMS URL, SMS wordpress
 Requires at least: 3.4.1
 Tested up to: 4.0.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2
 
 Le plugin Envoi-sms-cleversmsWP vous permet d'envoyer des SMS depuis l'interface administrateur en personnalisant l'émetteur.
@@ -29,7 +29,7 @@ Le plugin Envoi-sms-cleversmsWP vous permet d'envoyer des SMS via la plateforme 
 * Interface accessible depuis la plate forme.
 
 
-**Pour utiliser le plugin [Envoi-sms-cleversmsWP](http://cleversmslight.fr/solution-sms/sms-wordpress), il vous faudra créer un compte gratuitement sur la plate forme SMS [CleverSMSLight](https://cleversmslight.clever.fr/fr/inscription). Après l'ouverture du compte, vous pouvez recharger du crédit par carte bancaire avec une navigation sécurisée (https) ou faire une demande à notre service commercial via le formulaire de contacts ou bien par téléphone (+33)1.60.53.60.53) pour obtenir 5 SMS de test.**
+**Pour utiliser le plugin [Envoi-sms-cleversmsWP](http://cleversmslight.fr/solution-sms/sms-wordpress), il vous faudra créer un compte gratuitement sur la plate forme SMS [CleverSMSLight](https://cleversmslight.clever-is.fr/fr/inscription). Après l'ouverture du compte, vous pouvez recharger du crédit par carte bancaire avec une navigation sécurisée (https) ou faire une demande à notre service commercial via le formulaire de contacts ou bien par téléphone (+33)1.60.53.60.53) pour obtenir 5 SMS de test.**
 
 == Installation ==
 

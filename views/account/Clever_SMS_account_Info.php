@@ -114,7 +114,7 @@ class Clever_SMS_account_Info
         </div>
         <p>Pour <b>modifier les informations</b> de votre compte ou <b>acheter du crédit</b>, vous pouvez vous connecter à votre
             espace abonné sur le site
-            <a href="https://cleversmslight.clever.fr">https://cleversmslight.clever.fr</a>
+            <a href="https://cleversmslight.clever-is.fr">https://cleversmslight.clever-is.fr</a>
         </p>
     <?php
 
