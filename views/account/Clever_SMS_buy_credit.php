@@ -142,7 +142,7 @@ class Clever_SMS_buy_credit
 
             <p>
                 Procéder à l'achat sécurisé de crédit SMS en accédant directement à notre site <a
-                    href="https://cleversmslight.clever.fr">https://cleversmslight.clever.fr</a>.<br/>
+                    href="https://cleversmslight.clever-is.fr">https://cleversmslight.clever-is.fr</a>.<br/>
                 Une fois que vous aurez effectué votre choix de quantité de SMS, vous serez mis en relation avec la
                 banque pour effectuer un paiement sécurisé.<br/><br/>
 
@@ -153,7 +153,7 @@ class Clever_SMS_buy_credit
                 </a>
             </div>
             <div style="width: 50%">
-                <form action="https://cleversmslight.clever.fr/fr/login_check" method="post">
+                <form action="https://cleversmslight.clever-is.fr/fr/login_check" method="post">
                     <?php
                     $options = get_option('clever_sms_options');
                     $login = $options['login'];
@@ -163,7 +163,7 @@ class Clever_SMS_buy_credit
                     <input type="hidden" name="_password" value="<?php echo $password?>"/>
                     <input type="hidden" name="_nbsms" value="<?php echo  @$_POST['nbSMS']?>"/>
 
-<!--                    <input style="width: 100%" id="sendEstimation" type="button" name="buy" class="button-primary" value="Acheter maintenant" onclick="location.href='https://cleversmslight.clever.fr' "/>-->
+<!--                    <input style="width: 100%" id="sendEstimation" type="button" name="buy" class="button-primary" value="Acheter maintenant" onclick="location.href='https://cleversmslight.clever-is.fr' "/>-->
                     <input style="width: 100%" id="sendEstimation" type="submit" name="buy" class="button-primary" value="Acheter maintenant"/>
                 </form>
 

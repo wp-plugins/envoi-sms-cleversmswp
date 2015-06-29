@@ -81,7 +81,7 @@ class Clever_SMS_settings
         //Affichage de l'entête du formulaire
         echo '<h2>Configuration de votre plugin <b>Envoi-sms-cleversmsWP</b></h2>
         <p>Si vous ne disposez pas de compte, vous pouvez en créer gratuitement sur le site <a
-                href="https://cleversmslight.clever.fr">https://cleversmslight.clever.fr</a></p>';
+                href="https://cleversmslight.clever-is.fr">https://cleversmslight.clever-is.fr</a></p>';
         //Affichage des erreurs du formulaire
         Clever_SMS_response_handler::print_errors($errors);
         //Affichage du message de creation correcte

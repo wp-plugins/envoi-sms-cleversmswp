@@ -18,7 +18,7 @@ class Clever_SMS_response_handler
         echo '<div class="clever_sms_errors"><span>Erreur Authentification</span>';
         echo "<p>  Vos paramètres de connexion au service sont incorrects. <br/>
             Veuillez renseigner vos identifiant et mot de passe sur la page de configuration du plugin en respectant la casse.<br/>
-            Si votre mot de passe est perdu, vous pouvez le ré-initialiser à l'adresse suivante <a href=\"https://cleversmslight.clever.fr/fr/reinitialiser-mot-de-passe\">https://cleversmslight.clever.fr/fr/reinitialiser-mot-de-passe</a>
+            Si votre mot de passe est perdu, vous pouvez le ré-initialiser à l'adresse suivante <a href=\"https://cleversmslight.clever-is.fr/fr/reinitialiser-mot-de-passe\">https://cleversmslight.clever-is.fr/fr/reinitialiser-mot-de-passe</a>
             </p>";
         echo '</div>';
     }
