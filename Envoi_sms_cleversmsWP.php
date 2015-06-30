@@ -4,7 +4,7 @@
 Plugin Name: Envoi-sms-cleversmsWP
 Plugin URI: http://cleversmslight.fr/solution-sms/sms-wordpress/
 Description: Le plugin Envoi-sms-cleversmsWP vous permet d'envoyer des SMS de façon unitaire ou groupée. Elle vous donne la possibilité de personnaliser l'émetteur lors de vos envois, d'envoyer des messages longs de plus de 160 caractères sans troncature, d'encoder vos messages en latin(français..) ou UCS2 (Cyrillique, Chinois, Arabe...). Vous pouvez suivre en temps réél l'acheminement des SMS, gérer les STOP, récupérer les réponses.
-Version: 1.0
+Version: 1.2
 Author: Clever Technologies
 Author URI: http://www.clever.fr
 */
