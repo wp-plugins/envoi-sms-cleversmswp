@@ -1,6 +1,8 @@
 ﻿=== Envoi-sms-cleversmsWP ===
 Contributors: Clever Technologies
-Donate link: http://www.clever.fr/
+Donate link: https://www.clever.fr/
+Donate link: https://melwynn-rodriguez.fr
+Donate link: https://ereputation-dereferencement.fr
 Tags: sms, envoi de sms, sms long,  alerte sms, notification sms, envoi de sms en masse, campagne sms,  sms personnalisé, SMS URL, SMS wordpress
 Requires at least: 3.4.1
 Tested up to: 4.0.1
